@@ -47,4 +47,4 @@ Se realizarón dos sketch de processing:
 
 * Hacer [fork](https://help.github.com/articles/fork-a-repo/) de la plantilla. Plazo: 28/4/19 a las 24h.
 * (todos los integrantes) Presentar el trabajo presencialmente en la siguiente sesión de taller.
-* El resultado del taller se encuentra en: [GitHub Pages](https://github.com/CristianLozano/VC/tree/master/Taller%201)
+* El resultado del taller se encuentra en: [https://github.com/CristianLozano/VC/Taller1](https://github.com/CristianLozano/VC/tree/master/Taller%201)
